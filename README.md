@@ -1,7 +1,7 @@
 # 👋 Yo, I’m Aston
 
 *Engineer by trade. Photographer by obsession.*
-Always chasing the next great line of code and the next ray of light.*
+*Always chasing the next great line of code and the next ray of light.*
 
 ---
 
